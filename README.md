@@ -5,7 +5,7 @@
 
 "Business Intelligence Developer | Problem Solver | Visualizing Insights"
 
-Welcome to my GitHub profile! I'm a dedicated data analyst with a passion for unlocking the stories hidden within data. Armed with a strong analytical mindset and a flair for visualizing insights, I thrive on turning complex datasets into actionable solutions.
+Welcome to my GitHub profile! I'm a dedicated Business Intelligence Developer with a passion for unlocking the stories hidden within data. Armed with a strong analytical mindset and a flair for visualizing insights, I thrive on turning complex datasets into actionable solutions.
 
 🔍 Data Analysis: Proficient in extracting, cleaning, and analyzing data to identify trends, patterns, and correlations. Skilled in various statistical techniques and data visualization tools.
 
